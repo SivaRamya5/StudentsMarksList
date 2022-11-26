@@ -12,6 +12,8 @@ class Student:
         Student.marks.append(m4)
         Student.marks.append(m5)
 
+
+
     def displayData(self):
         print("Roll Number is: ", Student.rollno)
         print("Name is: ", Student.name)
