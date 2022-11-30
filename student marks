@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=MarksList" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=23bbc2309923f2e08b2438a32892fc1fb7e7349d"
